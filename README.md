@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/Changelogs-blue)](CHANGELOG.md)
 [![Static Badge](https://img.shields.io/badge/Contribute_to_HobbyTwo-purple)](CONTRIBUTING.md)
 ![Static Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-[![Static Badge](https://img.shields.io/badge/Linguagem%3A-Kotlin-purple)](https://kotlinlang.org)
+[![Static Badge](https://img.shields.io/badge/Linguagem%3A-Typescript-purple)](https:/typescriptlang.org)
 
 
 
