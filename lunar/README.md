@@ -1,4 +1,4 @@
-<img src="Lunar2.png" wdith="600">
+<img src="Lunar2.png" wdith="300">
 
 <div align=center>
 <img alt="Static Badge" src="https://img.shields.io/badge/bun-v1.3.13-blue" align=center>
